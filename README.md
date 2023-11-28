@@ -4,6 +4,9 @@ AddOns modified or ported for 3.4.3
 
 # **1) sArena:**
 
+Info:
+https://www.curseforge.com/wow/addons/sarena
+
 Changes: 
 - 3.2 base
 - Spec detection: you can either show the spec icon (original sArena style) or enable Class Icons to show as spec (recommended);
@@ -18,6 +21,8 @@ Download: [sArena-8.zip](https://github.com/XyzKangUI/Modded-AddOns/files/134806
 
 # **2) BigDebuffs**
 
+Info: https://www.curseforge.com/wow/addons/bigdebuffs
+
 Changes:
 - v11.2 base
 - Aura filtering added (hide unwanted (de)buffs)
@@ -29,7 +34,12 @@ Changes:
 Download: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480660/BigDebuffs-v11.2modded.zip)
 
 # **3) GladiatorlosSA2/SoundAlerter**:
+
+Info: https://www.curseforge.com/wow/addons/gladiatorlossa2
+
 Download: [GladiatorlosSA2.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480663/GladiatorlosSA2.zip)
+
+Info: https://github.com/Cortes-Jeremy/SoundAlerter
 
 Download: [SoundAlerter.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480667/SoundAlerter.zip)
 
@@ -70,8 +80,5 @@ Changes:
 - Tracks fake combat in arena, i.e. when an enemy pet is in attack mode
 
 Download: [SappableNameplate.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13482337/SappableNameplate.zip)
-
-
-
 
 
