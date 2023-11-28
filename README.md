@@ -49,7 +49,7 @@ Info: https://www.wowinterface.com/downloads/info14744-GiveMePeace.html#info
 Download: [Peace.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480673/Peace.zip)
 
 # **5) FocusComboFrame:**
-Description: Adds combo points to FocusFrame
+Description: Adds combo points to FocusFrame. Credits to Carcius for the original work.
 
 Download: [FocusComboFrame.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480686/FocusComboFrame.zip)
 
@@ -81,4 +81,5 @@ Changes:
 
 Download: [SappableNameplate.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13482337/SappableNameplate.zip)
 
-
+# Note: 
+I hope that these addons will not be blatantly copy pasted - without new contributions - on different platforms (e.g. "gladiatorlossa2woltk")
