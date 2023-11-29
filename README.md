@@ -17,7 +17,7 @@ Changes:
 - Has two extra themes: Flat & Asuri (/reload after changing any theme)
 - Added a combat indicator (that also displays on fake combat, i.e. sending pet)
 
-Download: [sArena-8.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480626/sArena-8.zip)
+Download: [sArena-8.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490442/sArena-8.zip)
 
 # **2) BigDebuffs**
 
@@ -28,35 +28,36 @@ Changes:
 - Aura filtering added (hide unwanted (de)buffs)
 - Added option: "Disable Blizzard Filter" (= allows you to see BoK etc. in combat)
 - Shows debuffs on pet frames
+- Warning debuffs are always prioritized to show
 - Extended spell list - thanks Asuri for taking the time to add another 1k id's.
 - Removed nameplates because you should use better alternatives such as https://www.curseforge.com/wow/addons/nameplateauras or https://wago.io/6s7KYePbG
 
-Download: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480660/BigDebuffs-v11.2modded.zip)
+Download: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13495277/BigDebuffs-v11.2modded.zip)
 
 # **3) GladiatorlosSA2/SoundAlerter**:
 
 Info: https://www.curseforge.com/wow/addons/gladiatorlossa2
 
-Download: [GladiatorlosSA2.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480663/GladiatorlosSA2.zip)
+Download: [GladiatorlosSA2.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490500/GladiatorlosSA2.zip)
 
 Info: https://github.com/Cortes-Jeremy/SoundAlerter
 
-Download: [SoundAlerter.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480667/SoundAlerter.zip)
+Download: [SoundAlerter.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490507/SoundAlerter.zip)
 
 # **4) Give me Peace**
 Info: https://www.wowinterface.com/downloads/info14744-GiveMePeace.html#info 
 
-Download: [Peace.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480673/Peace.zip)
+Download: [Peace.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490454/Peace.zip)
 
 # **5) FocusComboFrame:**
 Description: Adds combo points to FocusFrame. Credits to Carcius for the original work.
 
-Download: [FocusComboFrame.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480686/FocusComboFrame.zip)
+Download: [FocusComboFrame.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490486/FocusComboFrame.zip)
 
 # **6) Purgeatory:**
 Info: https://legacy.curseforge.com/wow/addons/purgeatory
 
-Download: [Purgeatory.zip](https://github.com/XyzKangUI/Modded-AddOns/files/13480692/Purgeatory.zip)
+Download: [Purgeatory.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490448/Purgeatory.zip)
 
 # **7) Loss of Control (Retail):**
 Info: Add retail (1:1 copy) Loss Of Control
