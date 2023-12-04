@@ -59,10 +59,11 @@ Info: https://legacy.curseforge.com/wow/addons/purgeatory
 
 Download: [Purgeatory.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490448/Purgeatory.zip)
 
-# **7) Loss of Control (Retail):**
+# **7) Loss of Control:**
 Info: Add retail (1:1 copy) Loss Of Control
+You can change the style from retail to a lite version using the /loc command.
 
-Download: [LossOfControl.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13481047/LossOfControl.zip)
+Download: [LossOfControl.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13542764/LossOfControl.zip)
 
 # **8) JaxPartyCastbars:**
 Changes:
