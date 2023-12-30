@@ -38,7 +38,7 @@ Download: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/AddOn-Collec
 
 Info: https://www.curseforge.com/wow/addons/gladiatorlossa2
 
-Download: [GladiatorlosSA2.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490500/GladiatorlosSA2.zip)
+Download: [GladiatorlosSA2.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13796690/GladiatorlosSA2.zip)
 
 Info: https://github.com/Cortes-Jeremy/SoundAlerter
 
