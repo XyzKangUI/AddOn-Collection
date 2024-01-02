@@ -90,7 +90,8 @@ Changes:
 - Fixed an issue that sporadically caused it not to show (Wrath/Era/SoD)
 - Shows a remaining charge count on Classic Vanilla (1.15.x)
 
-Download: [TemporaryWeaponEnchant-v1.05.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13800019/TemporaryWeaponEnchant-v1.05.zip)
+Download: [TemporaryWeaponEnchant-v1.05.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13806921/TemporaryWeaponEnchant-v1.05.zip)
+
 
 
 # Note: 
