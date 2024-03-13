@@ -86,11 +86,9 @@ Download: [SappableNameplate.zip](https://github.com/XyzKangUI/AddOn-Collection/
 # **10) TemporaryWeaponEnchantIcon:**
 Info: https://www.curseforge.com/wow/addons/temporary-weapon-enchant-icon
 
-Changes:
-- Fixed an issue that sporadically caused it not to show (Wrath/Era/SoD)
-- Shows a remaining charge count on Classic Vanilla (1.15.x)
+Download: [TemporaryWeaponEnchant.zip](https://github.com/XyzKangUI/AddOn-Collection/files/14593161/TemporaryWeaponEnchant.zip)
 
-Download: [TemporaryWeaponEnchant-v1.05.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13806921/TemporaryWeaponEnchant-v1.05.zip)
+
 
 
 
