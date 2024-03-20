@@ -82,15 +82,3 @@ Changes:
 - Tracks fake combat in arena, i.e. when an enemy pet is in attack mode
 
 Download: [SappableNameplate.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13482337/SappableNameplate.zip)
-
-# **10) TemporaryWeaponEnchantIcon:**
-Info: https://www.curseforge.com/wow/addons/temporary-weapon-enchant-icon
-
-Download: [TemporaryWeaponEnchant.zip](https://github.com/XyzKangUI/AddOn-Collection/files/14593161/TemporaryWeaponEnchant.zip)
-
-
-
-
-
-# Note: 
-I hope that these addons will not be blatantly copy pasted - without new contributions - on different platforms (e.g. "gladiatorlossa2woltk")
