@@ -17,7 +17,9 @@ Changes:
 - Has two extra themes: Flat & Asuri (/reload after changing any theme)
 - Added a combat indicator (that also displays on fake combat, i.e. sending pet)
 
-Download: [sArena-8.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490442/sArena-8.zip)
+Download: 
+- Cata: [sArena7.zip](https://github.com/user-attachments/files/15941942/sArena7.zip)
+- Wotlk: [sArena-8.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490442/sArena-8.zip)
 
 # **2) BigDebuffs**
 
@@ -32,16 +34,21 @@ Changes:
 - Extended spell list - thanks Asuri for taking the time to add another 1k id's.
 - Removed nameplates because you should use better alternatives such as https://www.curseforge.com/wow/addons/nameplateauras or https://wago.io/6s7KYePbG
 
-Download: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13495277/BigDebuffs-v11.2modded.zip)
+Download:
+
+- Cata: [BigDebuffs8.zip](https://github.com/user-attachments/files/15941943/BigDebuffs8.zip) - Credits to Asuri for the extended spells list.
+- Wotlk: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13495277/BigDebuffs-v11.2modded.zip)
 
 # **3) GladiatorlosSA2/SoundAlerter**:
 
 Info: https://www.curseforge.com/wow/addons/gladiatorlossa2
 
-Download: [GladiatorlosSA2.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13796690/GladiatorlosSA2.zip)
+Download: 
+- Cata: [GladiatorlosSA2.zip](https://github.com/user-attachments/files/15941947/GladiatorlosSA2.zip)
+- Wotlk:
+[GladiatorlosSA2.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13796690/GladiatorlosSA2.zip)
 
 Info: https://github.com/Cortes-Jeremy/SoundAlerter
-
 Download: [SoundAlerter.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490507/SoundAlerter.zip)
 
 # **4) Give me Peace**
@@ -52,33 +59,16 @@ Download: [Peace.zip](https://github.com/XyzKangUI/AddOn-Collection/files/134904
 # **5) FocusComboFrame:**
 Description: Adds combo points to FocusFrame. Credits to Carcius for the original work.
 
-Download: [FocusComboFrame.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490486/FocusComboFrame.zip)
+Download: 
+
+- Cata: [FocusComboFrame.zip](https://github.com/user-attachments/files/15941950/FocusComboFrame.zip)
+- Wotlk: [FocusComboFrame.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490486/FocusComboFrame.zip)
 
 # **6) Purgeatory:**
 Info: https://legacy.curseforge.com/wow/addons/purgeatory
 
 Download: [Purgeatory.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490448/Purgeatory.zip)
 
-# **7) Loss of Control:**
-Info: Add retail (1:1 copy) Loss Of Control
-You can change the style from retail to a lite version using the /loc command.
-
-Download: [LossOfControl.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13542764/LossOfControl.zip)
-
-# **8) JaxPartyCastbars:**
-Changes:
-- Added option to hide castbar icon
-- Added option to darken border color
-- Added a pet castbar
-- Misc improvements
-
-Download: [JaxPartyCastbars.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13482291/JaxPartyCastbars.zip)
-
-# **9) SappableNameplate:**
-Info: https://www.curseforge.com/wow/addons/sappablenameplates-tbc
-
-Changes:
-- Updated for Wrath
-- Tracks fake combat in arena, i.e. when an enemy pet is in attack mode
-
-Download: [SappableNameplate.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13482337/SappableNameplate.zip)
+# **7) TemporaryWeaponEnchantIcon:**
+Info: https://www.curseforge.com/wow/addons/temporary-weapon-enchant-icon
+- Download: [TemporaryWeaponEnchant.zip](https://github.com/user-attachments/files/15941951/TemporaryWeaponEnchant.zip)
