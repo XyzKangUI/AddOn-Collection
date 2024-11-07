@@ -18,7 +18,7 @@ Changes:
 - Added a combat indicator (that also displays on fake combat, i.e. sending pet)
 
 Download: 
-- Cata: [sArena9.zip](https://github.com/user-attachments/files/17589925/sArena9-1.zip)
+- Cata: [sArena10.zip](https://github.com/user-attachments/files/17668482/sArena10.zip)
 - Wotlk: [sArena-8.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490442/sArena-8.zip)
 
 # **2) BigDebuffs**
