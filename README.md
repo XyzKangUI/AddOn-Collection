@@ -16,6 +16,7 @@ Changes:
 - HP and Mana text can be abbreviated to show as "27.2k";
 - Has two extra themes: Flat & Asuri (/reload after changing any theme)
 - Added a combat indicator (that also displays on fake combat, i.e. sending pet)
+- Shows shield absorbs when using Precognito
 
 Download: 
 - Cata: [sArena10.zip](https://github.com/user-attachments/files/17668482/sArena10.zip)
