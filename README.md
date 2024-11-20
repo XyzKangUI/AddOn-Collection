@@ -72,4 +72,5 @@ Download: [Purgeatory.zip](https://github.com/XyzKangUI/AddOn-Collection/files/1
 
 # **7) TemporaryWeaponEnchantIcon:**
 Info: https://www.curseforge.com/wow/addons/temporary-weapon-enchant-icon
-- Download: [TemporaryWeaponEnchant.zip](https://github.com/user-attachments/files/15941951/TemporaryWeaponEnchant.zip)
+- Download: [TemporaryWeaponEnchant.zip](https://github.com/user-attachments/files/17822989/TemporaryWeaponEnchant.zip)
+
