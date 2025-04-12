@@ -37,7 +37,7 @@ Changes:
 
 Download:
 
-- Cata: [BigDebuffs8.zip](https://github.com/user-attachments/files/15941943/BigDebuffs8.zip) - Credits to Asuri for the extended spells list.
+- Cata: [BigDebuffs9.zip](https://github.com/user-attachments/files/19718993/BigDebuffs9.zip) - Credits to Asuri for the extended spells list.
 - Wotlk: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13495277/BigDebuffs-v11.2modded.zip)
 
 # **3) GladiatorlosSA2/SoundAlerter**:
