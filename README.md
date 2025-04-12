@@ -55,7 +55,7 @@ Download: [SoundAlerter.zip](https://github.com/XyzKangUI/AddOn-Collection/files
 # **4) Give me Peace**
 Info: https://www.wowinterface.com/downloads/info14744-GiveMePeace.html#info 
 
-Download: [Peace.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490454/Peace.zip)
+Download: [Peace.zip](https://github.com/user-attachments/files/19719015/Peace.zip)
 
 # **5) FocusComboFrame:**
 Description: Adds combo points to FocusFrame. Credits to Carcius for the original work.
