@@ -1,4 +1,4 @@
-AddOns modified or ported for 3.4.3
+Collection of modified/ported Classic addons
 
 [Discord](http://discord.gg/CtxPasSQnQ) > carefully read before joining.
 
@@ -19,6 +19,7 @@ Changes:
 - Shows shield absorbs when using Precognito
 
 Download: 
+- Mists of Pandaria: [sArena11.zip](https://github.com/user-attachments/files/20488787/sArena11.zip)
 - Cata: [sArena10.zip](https://github.com/user-attachments/files/17668482/sArena10.zip)
 - Wotlk: [sArena-8.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490442/sArena-8.zip)
 
