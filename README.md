@@ -1,4 +1,4 @@
-Collection of modified/ported Classic addons
+Collection of modified/ported Classic addons (3.4.x / 4.4.x / 5.5.x)
 
 [Discord](http://discord.gg/CtxPasSQnQ) > carefully read before joining.
 
@@ -16,10 +16,10 @@ Changes:
 - HP and Mana text can be abbreviated to show as "27.2k";
 - Has two extra themes: Flat & Asuri (/reload after changing any theme)
 - Added a combat indicator (that also displays on fake combat, i.e. sending pet)
-- Shows shield absorbs when using Precognito
+- Shows shield absorbs when using Precognito (maybe also tracks incoming heals, untested)
 
 Download: 
-- Mists of Pandaria📨
+- Mists of Pandaria: [sArena11.zip](https://github.com/user-attachments/files/20493610/sArena11.zip)
 - Cata: [sArena10.zip](https://github.com/user-attachments/files/17668482/sArena10.zip)
 - Wotlk: [sArena-8.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490442/sArena-8.zip)
 
@@ -38,6 +38,7 @@ Changes:
 
 Download:
 
+- Mists of Pandaria: [BigDebuffs-MoP.zip](https://github.com/user-attachments/files/20493612/BigDebuffs-MoP.zip)
 - Cata: [BigDebuffs9.zip](https://github.com/user-attachments/files/19718993/BigDebuffs9.zip) - Credits to Asuri for the extended spells list.
 - Wotlk: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13495277/BigDebuffs-v11.2modded.zip)
 
