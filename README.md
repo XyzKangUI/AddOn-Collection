@@ -47,12 +47,14 @@ Download:
 Info: https://www.curseforge.com/wow/addons/gladiatorlossa2
 
 Download: 
+- MoP: https://www.curseforge.com/wow/addons/gladiatorlossa-remake
 - Cata: [GladiatorlosSA2.zip](https://github.com/user-attachments/files/15941947/GladiatorlosSA2.zip)
 - Wotlk:
 [GladiatorlosSA2.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13796690/GladiatorlosSA2.zip)
 
+__Sounderalerter__
 Info: https://github.com/Cortes-Jeremy/SoundAlerter
-Download: [SoundAlerter.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490507/SoundAlerter.zip)
+Wotlk: [SoundAlerter.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490507/SoundAlerter.zip)
 
 # **4) Give me Peace**
 Info: https://www.wowinterface.com/downloads/info14744-GiveMePeace.html#info 
@@ -64,7 +66,7 @@ Description: Adds combo points to FocusFrame. Credits to Carcius for the origina
 
 Download: 
 
-- Cata: [FocusComboFrame.zip](https://github.com/user-attachments/files/15941950/FocusComboFrame.zip)
+- Cata/MoP: [FocusComboFrame.zip](https://github.com/user-attachments/files/15941950/FocusComboFrame.zip)
 - Wotlk: [FocusComboFrame.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490486/FocusComboFrame.zip)
 
 # **6) Purgeatory:**
