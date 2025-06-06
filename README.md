@@ -16,7 +16,7 @@ Changes:
 - HP and Mana text can be abbreviated to show as "27.2k";
 - Has two extra themes: Flat & Asuri (/reload after changing any theme)
 - Added a combat indicator (that also displays on fake combat, i.e. sending pet)
-- Shows shield absorbs when using Precognito (maybe also tracks incoming heals, untested)
+- Shows shield absorbs when using Precognito
 
 Download: 
 - Mists of Pandaria: [sArena11.zip](https://github.com/user-attachments/files/20493610/sArena11.zip)
