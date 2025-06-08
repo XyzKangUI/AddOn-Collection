@@ -19,8 +19,8 @@ Changes:
 - Shows shield absorbs when using Precognito
 
 Download: 
-- Mists of Pandaria: [sArena11.zip](https://github.com/user-attachments/files/20493610/sArena11.zip)
-- Cata: [sArena10.zip](https://github.com/user-attachments/files/17668482/sArena10.zip)
+- Mists of Pandaria: [sArena12.zip](https://github.com/user-attachments/files/20644803/sArena12.zip)
+- Cata: [sArena11.zip](https://github.com/user-attachments/files/20644793/sArena11.zip)
 - Wotlk: [sArena-8.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490442/sArena-8.zip)
 
 # **2) BigDebuffs**
