@@ -42,7 +42,17 @@ Download:
 - Cata: [BigDebuffs9.zip](https://github.com/user-attachments/files/19718993/BigDebuffs9.zip) - Credits to Asuri for the extended spells list.
 - Wotlk: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13495277/BigDebuffs-v11.2modded.zip)
 
-# **3) GladiatorlosSA2/SoundAlerter**:
+# **3) LossOfControl**
+Backported retail's Loss of Control for all Classic versions
+
+Options included:
+- Reposition and adjust frame size
+- Set specific CC category to full display, alert mode, or off
+- Switch to single icon (LoseControl style) or disable glows/background
+
+Download: [LossOfControl-backport.zip](https://github.com/user-attachments/files/20653249/LossOfControl-backport.zip)
+
+# **4) GladiatorlosSA2/SoundAlerter**:
 
 Info: https://www.curseforge.com/wow/addons/gladiatorlossa2
 
@@ -56,12 +66,12 @@ __Sounderalerter__
 Info: https://github.com/Cortes-Jeremy/SoundAlerter
 Wotlk: [SoundAlerter.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490507/SoundAlerter.zip)
 
-# **4) Give me Peace**
+# **5) Give me Peace**
 Info: https://www.wowinterface.com/downloads/info14744-GiveMePeace.html#info 
 
 Download: [Peace.zip](https://github.com/user-attachments/files/19719015/Peace.zip)
 
-# **5) FocusComboFrame:**
+# **6) FocusComboFrame:**
 Description: Adds combo points to FocusFrame. Credits to Carcius for the original work.
 
 Download: 
@@ -69,12 +79,12 @@ Download:
 - Cata/MoP: [FocusComboFrame.zip](https://github.com/user-attachments/files/15941950/FocusComboFrame.zip)
 - Wotlk: [FocusComboFrame.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490486/FocusComboFrame.zip)
 
-# **6) Purgeatory:**
+# **7) Purgeatory:**
 Info: https://legacy.curseforge.com/wow/addons/purgeatory
 
 Download: [Purgeatory.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13490448/Purgeatory.zip)
 
-# **7) TemporaryWeaponEnchantIcon:**
+# **8) TemporaryWeaponEnchantIcon:**
 Info: https://www.curseforge.com/wow/addons/temporary-weapon-enchant-icon
 - Download: [TemporaryWeaponEnchant.zip](https://github.com/user-attachments/files/17822989/TemporaryWeaponEnchant.zip)
 
