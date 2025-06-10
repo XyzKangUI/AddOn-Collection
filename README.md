@@ -50,8 +50,7 @@ Options included:
 - Set specific CC category to full display, alert mode, or off
 - Switch to single icon (LoseControl style) or disable glows/background
 
-Download: [LossOfControl-backport.zip](https://github.com/user-attachments/files/20676290/LossOfControl-backport.zip)
-
+Download: [LossOfControl-backport.zip](https://github.com/user-attachments/files/20677418/LossOfControl-backport.zip)
 
 # **4) GladiatorlosSA2/SoundAlerter**:
 
