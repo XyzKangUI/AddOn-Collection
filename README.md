@@ -88,3 +88,8 @@ Download: [Purgeatory.zip](https://github.com/XyzKangUI/AddOn-Collection/files/1
 Info: https://www.curseforge.com/wow/addons/temporary-weapon-enchant-icon
 - Download: [TemporaryWeaponEnchant.zip](https://github.com/user-attachments/files/17822989/TemporaryWeaponEnchant.zip)
 
+# **9) JaxPartyCastBars:**
+Info: https://www.curseforge.com/wow/addons/jax-party-cast-bars
+Download: [JaxPartyCastbars.zip](https://github.com/user-attachments/files/20679372/JaxPartyCastbars.zip)
+
+
