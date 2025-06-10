@@ -94,7 +94,7 @@ Info: https://www.curseforge.com/wow/addons/jax-party-cast-bars
 Download: [JaxPartyCastbars.zip](https://github.com/user-attachments/files/20679372/JaxPartyCastbars.zip)
 
 # **10) SappableNameplates:**
-Info: [https://www.curseforge.com/wow/addons/jax-party-cast-bars](https://www.curseforge.com/wow/addons/sappablenameplates-tbc)
+Info: https://www.curseforge.com/wow/addons/sappablenameplates-tbc
 
 Cata/MoP: [SappableNameplate.zip](https://github.com/user-attachments/files/20679443/SappableNameplate.zip)
 
