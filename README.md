@@ -43,12 +43,14 @@ Download:
 - Wotlk: [BigDebuffs-v11.2modded.zip](https://github.com/XyzKangUI/AddOn-Collection/files/13495277/BigDebuffs-v11.2modded.zip)
 
 # **3) LossOfControl**
-Backported retail's Loss of Control for all Classic versions
+Backported retail's Loss of Control for all Classic versions*
 
 Options included:
 - Reposition and adjust frame size
 - Set specific CC category to full display, alert mode, or off
 - Switch to single icon (LoseControl style) or disable glows/background
+
+* On Mists of Pandaria, it simply adds the features as mentioned above.
 
 Download: [LossOfControl.zip](https://github.com/user-attachments/files/21024254/LossOfControl.zip)
 
